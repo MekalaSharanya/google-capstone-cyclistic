@@ -29,7 +29,7 @@ The goal was to analyze how **annual members** and **casual riders** use Cyclist
 ## 🛠 Tools Used
 - Excel (data cleaning)  
 - Tableau (data visualization)  
-- SQL/Python (optional if applied)  
+
 
 ---
 
